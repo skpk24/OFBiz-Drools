@@ -1,4 +1,4 @@
-def ofbizVersion = '17.12'
+def ofbizVersion = '18.12'
 def droolsVersion = '7.17.0.Final'
 def dashbuilderVersion = '2.14.0.Final'
 def uberfireVersion = '2.14.0.Final'
